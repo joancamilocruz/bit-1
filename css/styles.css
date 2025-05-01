@@ -1,0 +1,72 @@
+
+.text-colorheader{
+    color: #927944;
+    color: #927944; /* Color del texto */
+    text-shadow:
+        -1px -1px 0 white,
+        1px -1px 0  white,
+        -1px 1px 0 white,
+        1px 1px 0 white;
+        font-size: 40px;
+        padding-top: 5px;
+        padding-left: 40px;
+ }
+ 
+ .redes-sociales{
+    color: #927944;
+    font-size: 17px;
+
+}
+
+.orden-redes {
+    padding-top: 25px;
+
+}
+
+.barras-millos {
+    width: 100%;
+    height: auto;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+/* NAV */
+  
+.nav-text {
+    color: #927944;
+    color: #927944; /* Color del texto */ 
+    text-shadow:
+        -1px -1px 0 white,
+        1px -1px 0  white,
+        -1px 1px 0 white,
+        1px 1px 0 white;
+        font-size: 30px;
+}
+
+/* images-index */
+.fotos-index {
+    padding-top: 20px;
+padding-bottom: 80px;
+}
+.foto-index1:hover{
+    transform: scale(1.1);
+}
+.foto-index2:hover{
+    transform: scale(1.1);
+}
+.foto-index3:hover{
+    transform: scale(1.1);
+}
+
+.contacto-index:hover{
+    transform: scale(1.1);
+}
+.contacto-index{
+    color: #927944;
+    font-size: 40px;
+    text-shadow:
+        -1px -1px 0 white,
+        1px -1px 0  white,
+        -1px 1px 0 white,
+        1px 1px 0 white;
+}
