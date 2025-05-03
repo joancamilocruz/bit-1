@@ -70,3 +70,42 @@ padding-bottom: 80px;
         -1px 1px 0 white,
         1px 1px 0 white;
 }
+
+/* NUESTRA HISTORIA PAGE */
+
+.textos-index{
+    color: white;
+    text-align: justify;
+}
+
+.imagen-historia{
+    width: 600px;
+}
+
+.img-nuestra{
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+
+/* ACTUALIDAD PAGE */
+
+.img-campeon{
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+
+/* IDOLOS PAGE */
+
+.arnoldo{
+    width: 430px;
+}
+
+.idolos-caja{
+    margin-bottom: 10px;
+    margin-top: 20px;
+    margin-bottom: 25px;
+}
+
+.iguaran-caja{
+    padding-top: 20px;
+}
