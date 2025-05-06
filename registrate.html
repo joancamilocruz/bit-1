@@ -13,14 +13,15 @@
 <body class="bg-black">
 
 
-<header>
-    <div class=" container-fluid text-center">
+  <header>
+    <div class=" container-fluid text-center border">
         <div class="row">
-          <div class=" text-colorheader  col">
+          <div class=" text-colorheader">
             REGISTRATE Y GANA
           </div>
+        </div>
       </div>
- <div>
+ <div class="border">
     <img src="./css/assets/solo-millos.png" class=" barras-millos img-fluid" alt="millitos">
  </div>
     </header>
@@ -30,9 +31,38 @@
   <h1 class="textos-index text-center">
     Al registrar tus datos estarás participando por miles de premios.</h1>
 
-  <div class="container textos-index">
-   
-    <div class="row g-2">
+    <br>
+
+    <div class="container textos-index">
+      <div class="row g-2">
+        <div class="col-md">
+          <div class="form-floating">
+            <input type="text" class="form-control" id="floatingInputNombre" placeholder="Tu nombre">
+            <label for="floatingInputNombre">Nombre</label>
+          </div>
+        </div>
+        <div class="col-md">
+          <div class="form-floating">
+            <input type="number" class="form-control" id="floatingInputEdad" placeholder="Tu edad">
+            <label for="floatingInputEdad">Edad</label>
+          </div>
+        </div>
+      </div>
+      <div class="row g-2 mt-2">
+        <div class="col-md">
+          <div class="form-floating">
+            <input type="tel" class="form-control" id="floatingInputNumero" placeholder="Tu número de teléfono">
+            <label for="floatingInputPhone">Número de teléfono</label>
+          </div>
+        </div>
+        <div class="col-md">
+          <div class="form-floating">
+            <input type="url" class="form-control" id="floatingInputInstagram" placeholder="Link de tu Instagram">
+            <label for="floatingInputInstagram">Link de Instagram</label>
+          </div>
+        </div>
+      </div>
+      <div class="row g-2 mt-2">
         <div class="col-md">
           <div class="form-floating">
             <input type="email" class="form-control" id="floatingInputGrid" placeholder="name@example.com" value="mdo@example.com">
@@ -48,19 +78,29 @@
               <option value="3">Fan número 1</option>
             </select>
             <label for="floatingSelectGrid">¿Que tan hincha te consideras?</label>
- <br>          
-           
-            <div class="d-grid gap-2 col-5 border mx-auto">
-
-                <button class="btn btn-primary" type="button">Enviar</button>
-              </div>
-        
-        </div>
+          </div>
         </div>
       </div>
+      <hr>
+      <div class="form-floating mt-2">
+        <textarea class="form-control" placeholder="Leave a comment here" id="floatingTextarea"></textarea>
+        <label for="floatingTextarea">Escribe aquí, que sería lo más loco que harias por este equipo.</label>
+      </div>
+      <br>
+      <div class="d-grid gap-2 col-4 mx-auto">
+        <button class="btn btn-primary" type="button">Enviar</button>
+      </div>
 
-</div>
+    </div>
+
+
 </main>
+
+<footer>
+  <div class="orden-redes  col-lg-2 text-center container">
+    <p><a href="./index.html" target="_blank" class="redes-sociales link-underline-dark link-offset-2">Volver al inicio ⮌ </a></p>
+  </div>
+</footer>
 
 
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.5/dist/js/bootstrap.bundle.min.js"></script>
