@@ -109,3 +109,39 @@ padding-bottom: 80px;
 .iguaran-caja{
     padding-top: 20px;
 }
+
+/* Media Queries */
+@media screen and (max-width: 768px) {
+    .s768px{
+        font-size: 24px;
+    }
+    .s768pxidolos{
+        font-size: 23px;
+    }
+
+    .arnoldo{
+        width: 240px;
+    }
+}
+
+@media screen and (max-width: 576px) {
+    .s576pxtitulo{
+        font-size: 25px;
+        align-items: center;
+        padding-top: 15px;
+    }
+    .redes-sociales {
+        font-size: 13px;
+    }
+    .s576px{
+        font-size: 17px;
+    }
+    .fotos-576px{
+        padding-top: 20px;
+        width: 400px;
+        height: 650px;
+    }
+    .arnoldo{
+        width: 180px;
+    }
+}
