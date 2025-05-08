@@ -145,3 +145,38 @@ padding-bottom: 80px;
         width: 180px;
     }
 }
+
+@media screen and (max-width: 390px) {
+    .s390pxtitulos {
+        font-size: 29px;
+        text-align: center;
+    }
+    .arnoldo {
+        width: 120px;
+    }
+
+    .textos-390{
+        font-size: 13px;
+        padding-top: 20px;
+    }
+    .registro-datos{
+        font-size: 20px;
+    }
+    .form-390{
+        font-size: 14px;
+        width: 280px;
+    }
+
+    .idolos-names{
+        font-size: 10px;
+    }
+
+    .index-390{
+        width:340px;
+        height: 560px;
+    }
+    .millos-390{
+        height: 50px;
+    }
+    
+}
