@@ -1,1 +1,2 @@
-const
+'use strict'; 
+
