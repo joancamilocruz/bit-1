@@ -2,7 +2,7 @@
 
 ## Bienvenidos a mi segundo proyecto calificable, en este proyecto, sigo implementando herramientas que he aprendido a usar en mi Bootcamp en BIT, 
 
-## Lenguages como:
+## Lenguajes como:
 * - HTML 
 * - CSS
 * - JAVASCRIPT.
