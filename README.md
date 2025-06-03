@@ -37,5 +37,5 @@ Muchas gracias por verlo.
 ## Para más proyectos: 
 - Github: https://github.com/joancamilocruz
 ## Contáctame: 
-- Linkedin: https://www.linkedin.com/in/joan-camilo-cruz-cortes-44b583249/?originalSubdomain=co
+- Linkedin: https://www.linkedin.com/in/joan-camilo-cruz-cortes-desarrolladorfullstack
 
